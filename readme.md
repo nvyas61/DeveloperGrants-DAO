@@ -90,12 +90,5 @@ ST17FK8GMMG31GETTJ3FA79G76DQZMCF9EQFWPRHK.DeveloperGrantsDAO
 ![alt text](image.png)
 
 
-**Testnet Address**: `[To be added]`  
-**Mainnet Address**: `[To be added]`  
-**Token Contract**: `[To be added]`  
-**Block Height**: `[To be added]`  
 
----
-
-**Built with ❤️ for the open-source community**
 
